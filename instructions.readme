@@ -1,0 +1,10 @@
+INSTRUCTIONS (Tutorial - https://youtu.be/KWUcTt15fQs)
+
+#1 Use src/main.js file to Write your ES6 javascript. 
+(Google Chrome will currently support ES6)
+
+#2 When ready to compile, open terminal and cd to root folder,
+type npm run build, Now your src/main.js ES6 will be
+compiled into dist/main/js as vanilla javascript
+
+#3 Change the the index.html script src to dist/main.js
