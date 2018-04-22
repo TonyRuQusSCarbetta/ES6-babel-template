@@ -1,3 +1,6 @@
+//https://www.npmjs.com/package/eslint-config-es6
+// npm i eslint-config-es6
+
 class User{
   register(){
     console.log('User Registered');
